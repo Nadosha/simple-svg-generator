@@ -1,0 +1,1 @@
+Seats = new Mongo.Collection('seats');
